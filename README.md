@@ -73,4 +73,4 @@ https://discord.gg/AYbDNEWgHE
 Disclaimer
 ----------
 For research and data collection only.
-Do not scan networks you do not own or have permission to test.
+Do not scan networks you do not own or have permission to test ;).
