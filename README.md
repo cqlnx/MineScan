@@ -1,6 +1,4 @@
-#MineScan
-
-Minecraft Scanner (Pipeline Repo)
+MineScan (Pipeline Repo)
 ================================
 
 ⚠️ WARNING / READ FIRST
