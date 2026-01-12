@@ -31,6 +31,7 @@ This pipeline depends on this API:
 https://mcapi.shit.vc/docs
 
 The API stores already-known Minecraft servers and is used to avoid rescanning them with auth-mode detection on.
+
 Without replacing or modifying this logic, results will be very limited.
 
 Required File: ips.txt
@@ -39,6 +40,7 @@ You MUST provide an `ips.txt` file.
 
 Format (one per line):
 1.2.3.4
+
 2.5.6.7
 
 If `ips.txt` is missing or empty, scanning will fail.
