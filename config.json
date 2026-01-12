@@ -1,0 +1,11 @@
+{
+    "webhook_url": "",
+    "db_config": {
+        "host": "",
+        "port": 6543,
+        "dbname": "",
+        "user": "",
+        "password": "",
+        "sslmode": "require"
+    }
+}
