@@ -39,6 +39,7 @@ Required File: ips.txt
 You MUST provide an `ips.txt` file.
 
 Format (one per line):
+
 1.2.3.4
 
 2.5.6.7
