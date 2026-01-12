@@ -10,7 +10,8 @@ In its current form, it mostly works **only for me**.
 Why?
 - It fetches IPs from my own API
 - That API already contains a massive list of known Minecraft servers
-- New users will likely scan **nothing**, because most IPs are already known
+- New users will likely scan **nothing**, because the code skips known IP's that are gotten from the api
+- You will have do remove that part or use this instead https://github.com/cqlnx/mcprobe
 
 You are expected to modify this project if you want to use it yourself.
 
