@@ -13,7 +13,7 @@ It is built around two main components:
 ## Links
 
 - Website: https://minescan.xyz  
-- API: https://api.minescan.xyz  
+- API: https://data.minescan.xyz  
 - Discord: https://discord.gg/AYbDNEWgHE  
 
 ---
