@@ -68,8 +68,8 @@ MineScan only collects information that Minecraft servers already expose publicl
 
 ## Scale (as of January 2026)
 
-- 500,000+ Minecraft servers indexed
-- 1,500,000+ unique players observed through server activity
+- 550,000+ Minecraft servers indexed
+- 1,800,000+ unique players observed through server activity
 
 These values are continuously updated and reflect the current state of the dataset.
 
