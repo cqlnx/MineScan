@@ -12,8 +12,9 @@ It is built around two main components:
 
 ## Links
 
-- Website: https://minescan.xyz  
-- API: https://data.minescan.xyz  
+- Website: https://minescan.xyz
+- API Documentation: https://minescan.xyz/docs
+- API: https://data.minescan.xyz
 - Discord: https://discord.gg/AYbDNEWgHE  
 
 ---
