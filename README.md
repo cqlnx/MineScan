@@ -89,6 +89,10 @@ It was built as a personal project and expanded over time into a larger system.
 
 ## Opt-out
 
-If you own a server and want it removed from indexing, you can request removal via Discord:
+To remove your player or server data from MineScan, visit:
 
-https://discord.gg/AYbDNEWgHE
+**https://optout.minescan.xyz/**
+
+If you experience any issues with the automated verification process, you can get help by joining our Discord server:
+
+**https://discord.gg/AYbDNEWgHE**
